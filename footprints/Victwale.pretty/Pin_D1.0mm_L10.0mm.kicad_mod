@@ -31,7 +31,7 @@
 		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "00000000-0000-0000-0000-000000000000")
+		(uuid "20b081ed-e591-446e-820b-2b20b8be8f98")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -43,7 +43,7 @@
 		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "00000000-0000-0000-0000-000000000000")
+		(uuid "b365ab27-3a76-4e0c-ac76-787c46359129")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -110,7 +110,7 @@
 	(pad "1" thru_hole circle
 		(at 0 0)
 		(size 2 2)
-		(drill 1)
+		(drill 1.2)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(uuid "3c98ed59-f764-4ba2-9cf6-334888b66ee7")

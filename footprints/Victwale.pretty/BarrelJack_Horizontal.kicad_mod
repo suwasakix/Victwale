@@ -8,7 +8,7 @@
 	(property "Reference" "REF**"
 		(at -8.45 5.75 0)
 		(layer "F.SilkS")
-		(uuid "9bf4c2b1-46be-40db-91e7-9fc26926aecf")
+		(uuid "ffd01112-6f73-4fe8-9c39-cafad5c12c73")
 		(effects
 			(font
 				(size 1 1)
@@ -19,7 +19,7 @@
 	(property "Value" "BarrelJack_Horizontal"
 		(at -6.2 -5.5 0)
 		(layer "F.Fab")
-		(uuid "36cd9c58-69dd-4a8e-b29b-80a4380254e8")
+		(uuid "00b70222-3f4e-4ba4-a33e-5ea0cba0a4c4")
 		(effects
 			(font
 				(size 1 1)
@@ -31,7 +31,7 @@
 		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "00000000-0000-0000-0000-000000000000")
+		(uuid "ab6576bc-36aa-4b9c-85d9-5a4759b06918")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -43,7 +43,7 @@
 		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "00000000-0000-0000-0000-000000000000")
+		(uuid "75f77a6a-0c42-433d-964e-ed41397255be")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -334,9 +334,9 @@
 		)
 	)
 	(pad "" np_thru_hole circle
-		(at -10 0)
-		(size 1.6 1.6)
-		(drill 1.6)
+		(at -10.5 0)
+		(size 2 2)
+		(drill 2)
 		(layers "F&B.Cu" "*.Mask")
 		(uuid "890ad835-2cec-468c-ab2d-5421f5013270")
 	)
