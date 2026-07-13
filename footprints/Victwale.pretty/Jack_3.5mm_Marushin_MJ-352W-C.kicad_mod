@@ -65,7 +65,7 @@
 	)
 	(fp_line
 		(start -5.5 -10.65)
-		(end 3.1 -10.65)
+		(end 3.4 -10.65)
 		(stroke
 			(width 0.15)
 			(type solid)
@@ -144,7 +144,7 @@
 		(uuid "09409f18-d14c-4b19-a63b-a57cf2a261e2")
 	)
 	(fp_line
-		(start 6.7 1.05)
+		(start 6.8 1.05)
 		(end 1.95 1.05)
 		(stroke
 			(width 0.15)
@@ -154,7 +154,7 @@
 		(uuid "b4b9695f-d2d6-48ff-ab1b-8e64782de9cb")
 	)
 	(fp_line
-		(start 8.7 1.05)
+		(start 8.6 1.05)
 		(end 8.8 1.05)
 		(stroke
 			(width 0.15)
@@ -165,23 +165,13 @@
 	)
 	(fp_line
 		(start 8.8 -10.65)
-		(end 8.8 -1.75)
-		(stroke
-			(width 0.15)
-			(type solid)
-		)
-		(layer "F.SilkS")
-		(uuid "cf289a5a-006f-4bb9-bfbf-63007ea8f646")
-	)
-	(fp_line
-		(start 8.8 0.85)
 		(end 8.8 1.05)
 		(stroke
 			(width 0.15)
 			(type solid)
 		)
 		(layer "F.SilkS")
-		(uuid "230892b5-eed7-4578-8416-61dabd1fd77e")
+		(uuid "cf289a5a-006f-4bb9-bfbf-63007ea8f646")
 	)
 	(fp_line
 		(start -9.4 -11.55)
@@ -317,41 +307,41 @@
 		)
 	)
 	(pad "R" thru_hole oval
-		(at 4.8 -9.6)
-		(size 4.3 2.2)
-		(drill oval 2.3 1)
+		(at 4.9 -9.6)
+		(size 4.5 2)
+		(drill oval 2.5 0.8)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(uuid "7e731030-e8f0-40a3-a954-8a45dd849fc9")
 	)
 	(pad "RN" thru_hole oval
 		(at 3.2 -7.2)
-		(size 3.9 2.2)
-		(drill oval 1.9 1)
+		(size 3.7 2)
+		(drill oval 1.7 0.8)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(uuid "c325cbcf-a0f7-44c0-8de8-9a86fb0e379e")
 	)
 	(pad "S" thru_hole oval
 		(at -3.3 -4.55)
-		(size 2.2 3.7)
-		(drill oval 1 1.7)
+		(size 2 3.5)
+		(drill oval 0.8 1.5)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(uuid "7fc48ba1-565e-4a42-a84e-38b800a0d5c1")
 	)
 	(pad "T" thru_hole rect
 		(at 0 0)
-		(size 3.7 2.2)
-		(drill oval 1.7 1)
+		(size 3.7 2)
+		(drill oval 1.7 0.8)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(uuid "8c0e5992-358e-430e-9d0b-125db5f9932e")
 	)
 	(pad "TN" thru_hole oval
 		(at 7.7 -0.45 90)
-		(size 3.9 2.2)
-		(drill oval 1.9 1)
+		(size 3.7 2)
+		(drill oval 1.7 0.8)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(uuid "9f129e1d-0bec-4a43-a47a-91bb9649f196")
